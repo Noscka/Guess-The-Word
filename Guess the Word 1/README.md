@@ -10,6 +10,6 @@ And at the end, Player 2 just has to guess the word and if they get it right, th
 ### LowerString
 Functions made to just lower strings as c++ only has the ability to lower single chars. <br />
 Inputs: <br />
-	String Input <br />
+	-String Input <br />
 Return: <br />
-	String Ouput <br />
+	-String Ouput <br />
