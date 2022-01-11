@@ -8,8 +8,8 @@ After this the next loop is a for loop for Player 2. It is a for loop that goes 
 And at the end, Player 2 just has to guess the word and if they get it right, they win, if not. Player 1 wins. 
 ## Functions
 ### LowerString
-Functions made to just lower strings as c++ only has the ability to lower single chars.
-Inputs:
-	String Input
-Return:
-	String Ouput
+Functions made to just lower strings as c++ only has the ability to lower single chars. <br />
+Inputs: <br />
+	String Input <br />
+Return: <br />
+	String Ouput <br />
