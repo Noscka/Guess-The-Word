@@ -9,7 +9,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Guess the Word 2", "Guess t
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Guess the Word 3", "Guess the Word 3\Guess the Word 3.vcxproj", "{AD65BB64-EDD8-4858-BA73-9FE31B74E0A0}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Guess the word 4", "Guess the word 4\Guess the word 4.vcxproj", "{E6A92880-4BC1-44CE-AB2D-4EB8424E41E0}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Guess the word 4", "Guess the Word 4\Guess the word 4.vcxproj", "{E6A92880-4BC1-44CE-AB2D-4EB8424E41E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
