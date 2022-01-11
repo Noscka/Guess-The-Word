@@ -4,19 +4,19 @@ This, unlike the previous 3 exercises, was written in a way to add a menu which 
 ## Features and Demonstrations
 ### Menu
 One of the main features of this program is the menu. I made it in a dynamic way so the menu items can be added onto, removed and possibly even dynamically added on. 
-![show](/Images/image1.gif)
+![show](/Images/image1.gif) <br />
 ### Game
 The game itself is used from the previous exercises but is edited to fit this one and have boosted performance.
 #### Difficulty Selection
-![show](/Images/image2.png)
+![show](/Images/image2.png) <br />
 This the Difficulty Selection that shows up when you choose the game type (singleplayer or multiplayer)
 #### Extras
-![show](/Images/image3.png)
+![show](/Images/image3.png) <br />
 The game, once you have decided to guess or used up all guesses. Shows what you got so far to guide you on what you have to type.
 ### Single Game
 One of the 2 game options that you can pick from is single game. This just means you play a single game and then the game ends.
 ### Multi Game
 Multi game is just single game but it goes a couple times. You have to type in “end” to end the game and get the results
 #### Result table
-![show](/Images/image4.png)
+![show](/Images/image4.png) <br />
 Here is the result table that shows you all the wins from both sides and etc
