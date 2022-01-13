@@ -1,3 +1,4 @@
+[![Workflow CodeQL Scan](https://github.com/Ruski1/Guess-The-Word/actions/workflows/main.yml/badge.svg)](https://github.com/Ruski1/Guess-The-Word/actions/workflows/main.yml)
 # GuessTheWordProject3
 A gcse project for a copy Hangman
 
