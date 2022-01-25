@@ -1,0 +1,5 @@
+The plan is to make the program with the use of for and while loops. (foreach loops too but in c++ foreach is for loop)
+
+I want to have the user input a word, and then have a for loop for 3 times, have a while loop inside incase they enter nothing or more then 1 letter.
+
+once its finished compare the input with the guesses word

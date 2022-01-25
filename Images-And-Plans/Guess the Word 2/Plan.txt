@@ -1,0 +1,1 @@
+My plan is to just copy the code from last project to this one and change the for loop for a while loop.

@@ -1,0 +1,2 @@
+As this is the final Exercise of the project and last project. I will fully rewrite program.
+I plan on creating a similar but cleaner program with a menu, and some other things
