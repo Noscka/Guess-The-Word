@@ -1,5 +1,5 @@
 [![Workflow CodeQL Scan](https://github.com/Ruski1/Guess-The-Word/actions/workflows/main.yml/badge.svg)](https://github.com/Ruski1/Guess-The-Word/actions/workflows/main.yml)
-# GuessTheWordProject3
+# Guess The Word
 A gcse project for a copy Hangman
 
 [Guess the Word 1 Documenation](/Guess%20the%20Word%201/README.md) <br />
